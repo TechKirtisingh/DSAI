@@ -5,7 +5,7 @@ import numpy as np
 #Page Layout
 st.set_page_config(
     page_title="Student Performance System",
-    page_icon="@",
+    page_icon="🎓 ",
     layout="wide"
     )
 #Header
